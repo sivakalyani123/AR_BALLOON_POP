@@ -21,12 +21,14 @@ AR Balloon Pop is an endless mobile AR game. The camera shows the real world, an
 
 > Add your screenshots to a `screenshots/` folder and link them here.
 
-| Start screen | Balloons rising | Game Over |
+| Start screen | 
 |---|---|---|
 | <img width="1080" height="2412" alt="639f9a83-9822-4d83-ad4b-e6bc48b83fe6" src="https://github.com/user-attachments/assets/822e8bfc-251e-4111-bf45-b7ba1832b5aa" />
+
+Balloons rising 
 <img width="540" height="1206" alt="37fc76ff-be02-4961-8cb3-82806a435685" src="https://github.com/user-attachments/assets/e1849119-1593-464e-8728-24aae22d3ab6" />
-| <img width="540" height="1206" alt="ccce67eb-35e8-4078-a28f-b217fd0d2b2f" src="https://github.com/user-attachments/assets/89a8bf0d-a739-4fe0-80f8-c28fc24b5fd4" />
-|
+Game Over
+<img width="540" height="1206" alt="ccce67eb-35e8-4078-a28f-b217fd0d2b2f" src="https://github.com/user-attachments/assets/89a8bf0d-a739-4fe0-80f8-c28fc24b5fd4" />
 
 ## Features
 
